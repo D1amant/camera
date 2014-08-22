@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mycamera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="foto_bt_camera">Teste</string>
+    <string name="foto_bt_fotografar">Nova Foto</string>
+    <string name="foto_bt_fotografar2">Tirar</string>
+
+</resources>
